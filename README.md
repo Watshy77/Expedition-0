@@ -29,7 +29,7 @@ Ensuite, ouvrez [http://localhost:3000](http://localhost:3000) dans votre naviga
 
 ## 🖼 Moodboard
 
-![Moodboard](public/moodboard.jpg)
+public/moodboard.jpg
 
 ---
 
